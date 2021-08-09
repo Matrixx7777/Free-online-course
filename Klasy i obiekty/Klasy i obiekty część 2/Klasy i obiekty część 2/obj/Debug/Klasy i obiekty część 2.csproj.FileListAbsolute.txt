@@ -1,0 +1,7 @@
+C:\C#\Klasy i obiekty\Klasy i obiekty część 2\Klasy i obiekty część 2\bin\Debug\Klasy i obiekty część 2.exe.config
+C:\C#\Klasy i obiekty\Klasy i obiekty część 2\Klasy i obiekty część 2\bin\Debug\Klasy i obiekty część 2.exe
+C:\C#\Klasy i obiekty\Klasy i obiekty część 2\Klasy i obiekty część 2\bin\Debug\Klasy i obiekty część 2.pdb
+C:\C#\Klasy i obiekty\Klasy i obiekty część 2\Klasy i obiekty część 2\obj\Debug\Klasy i obiekty część 2.csprojAssemblyReference.cache
+C:\C#\Klasy i obiekty\Klasy i obiekty część 2\Klasy i obiekty część 2\obj\Debug\Klasy i obiekty część 2.csproj.CoreCompileInputs.cache
+C:\C#\Klasy i obiekty\Klasy i obiekty część 2\Klasy i obiekty część 2\obj\Debug\Klasy i obiekty część 2.exe
+C:\C#\Klasy i obiekty\Klasy i obiekty część 2\Klasy i obiekty część 2\obj\Debug\Klasy i obiekty część 2.pdb

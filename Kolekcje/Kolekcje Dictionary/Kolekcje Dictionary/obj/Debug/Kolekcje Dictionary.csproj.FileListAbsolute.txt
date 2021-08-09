@@ -1,0 +1,7 @@
+C:\C#\Kolekcje\Kolekcje Dictionary\Kolekcje Dictionary\bin\Debug\Kolekcje Dictionary.exe.config
+C:\C#\Kolekcje\Kolekcje Dictionary\Kolekcje Dictionary\bin\Debug\Kolekcje Dictionary.exe
+C:\C#\Kolekcje\Kolekcje Dictionary\Kolekcje Dictionary\bin\Debug\Kolekcje Dictionary.pdb
+C:\C#\Kolekcje\Kolekcje Dictionary\Kolekcje Dictionary\obj\Debug\Kolekcje Dictionary.csprojAssemblyReference.cache
+C:\C#\Kolekcje\Kolekcje Dictionary\Kolekcje Dictionary\obj\Debug\Kolekcje Dictionary.csproj.CoreCompileInputs.cache
+C:\C#\Kolekcje\Kolekcje Dictionary\Kolekcje Dictionary\obj\Debug\Kolekcje Dictionary.exe
+C:\C#\Kolekcje\Kolekcje Dictionary\Kolekcje Dictionary\obj\Debug\Kolekcje Dictionary.pdb

@@ -1,0 +1,7 @@
+C:\C#\operacje na Plikach (.txt)\operacje na Plikach (.txt)\bin\Debug\operacje na Plikach (.txt).exe.config
+C:\C#\operacje na Plikach (.txt)\operacje na Plikach (.txt)\bin\Debug\operacje na Plikach (.txt).exe
+C:\C#\operacje na Plikach (.txt)\operacje na Plikach (.txt)\bin\Debug\operacje na Plikach (.txt).pdb
+C:\C#\operacje na Plikach (.txt)\operacje na Plikach (.txt)\obj\Debug\operacje na Plikach (.txt).csprojAssemblyReference.cache
+C:\C#\operacje na Plikach (.txt)\operacje na Plikach (.txt)\obj\Debug\operacje na Plikach (.txt).csproj.CoreCompileInputs.cache
+C:\C#\operacje na Plikach (.txt)\operacje na Plikach (.txt)\obj\Debug\operacje na Plikach (.txt).exe
+C:\C#\operacje na Plikach (.txt)\operacje na Plikach (.txt)\obj\Debug\operacje na Plikach (.txt).pdb

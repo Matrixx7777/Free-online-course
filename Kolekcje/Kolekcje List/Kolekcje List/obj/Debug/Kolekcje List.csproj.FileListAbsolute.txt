@@ -1,0 +1,7 @@
+C:\C#\Kolekcje\Kolekcje List\Kolekcje List\bin\Debug\Kolekcje List.exe.config
+C:\C#\Kolekcje\Kolekcje List\Kolekcje List\bin\Debug\Kolekcje List.exe
+C:\C#\Kolekcje\Kolekcje List\Kolekcje List\bin\Debug\Kolekcje List.pdb
+C:\C#\Kolekcje\Kolekcje List\Kolekcje List\obj\Debug\Kolekcje List.csprojAssemblyReference.cache
+C:\C#\Kolekcje\Kolekcje List\Kolekcje List\obj\Debug\Kolekcje List.csproj.CoreCompileInputs.cache
+C:\C#\Kolekcje\Kolekcje List\Kolekcje List\obj\Debug\Kolekcje List.exe
+C:\C#\Kolekcje\Kolekcje List\Kolekcje List\obj\Debug\Kolekcje List.pdb

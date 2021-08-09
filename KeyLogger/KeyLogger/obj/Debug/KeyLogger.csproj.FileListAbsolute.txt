@@ -1,0 +1,12 @@
+C:\C#\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe.config
+C:\C#\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe
+C:\C#\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csprojAssemblyReference.cache
+C:\C#\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csproj.CoreCompileInputs.cache
+C:\C#\KeyLogger\KeyLogger\obj\Debug\KeyLogger.exe
+C:\C#\KeyLogger\KeyLogger\obj\Debug\KeyLogger.pdb
+C:\Users\tesco\Desktop\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe.config
+C:\Users\tesco\Desktop\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe
+C:\Users\tesco\Desktop\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csprojAssemblyReference.cache
+C:\Users\tesco\Desktop\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csproj.CoreCompileInputs.cache
+C:\Users\tesco\Desktop\KeyLogger\KeyLogger\obj\Debug\KeyLogger.exe
+C:\Users\tesco\Desktop\KeyLogger\KeyLogger\obj\Debug\KeyLogger.pdb
