@@ -1,0 +1,7 @@
+C:\C#\Interfejsy\Interfejsy\Interfejsy\bin\Debug\Interfejsy.exe.config
+C:\C#\Interfejsy\Interfejsy\Interfejsy\bin\Debug\Interfejsy.exe
+C:\C#\Interfejsy\Interfejsy\Interfejsy\bin\Debug\Interfejsy.pdb
+C:\C#\Interfejsy\Interfejsy\Interfejsy\obj\Debug\Interfejsy.csprojAssemblyReference.cache
+C:\C#\Interfejsy\Interfejsy\Interfejsy\obj\Debug\Interfejsy.csproj.CoreCompileInputs.cache
+C:\C#\Interfejsy\Interfejsy\Interfejsy\obj\Debug\Interfejsy.exe
+C:\C#\Interfejsy\Interfejsy\Interfejsy\obj\Debug\Interfejsy.pdb

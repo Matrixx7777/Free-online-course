@@ -1,0 +1,7 @@
+C:\C#\Funckje\Funckje część 1\Funckje część 1\bin\Debug\Funckje część 1.exe.config
+C:\C#\Funckje\Funckje część 1\Funckje część 1\bin\Debug\Funckje część 1.exe
+C:\C#\Funckje\Funckje część 1\Funckje część 1\bin\Debug\Funckje część 1.pdb
+C:\C#\Funckje\Funckje część 1\Funckje część 1\obj\Debug\Funckje część 1.csprojAssemblyReference.cache
+C:\C#\Funckje\Funckje część 1\Funckje część 1\obj\Debug\Funckje część 1.csproj.CoreCompileInputs.cache
+C:\C#\Funckje\Funckje część 1\Funckje część 1\obj\Debug\Funckje część 1.exe
+C:\C#\Funckje\Funckje część 1\Funckje część 1\obj\Debug\Funckje część 1.pdb

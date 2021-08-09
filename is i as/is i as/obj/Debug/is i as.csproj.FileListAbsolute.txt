@@ -1,0 +1,7 @@
+C:\C#\is i as\is i as\bin\Debug\is i as.exe.config
+C:\C#\is i as\is i as\bin\Debug\is i as.exe
+C:\C#\is i as\is i as\bin\Debug\is i as.pdb
+C:\C#\is i as\is i as\obj\Debug\is i as.csprojAssemblyReference.cache
+C:\C#\is i as\is i as\obj\Debug\is i as.csproj.CoreCompileInputs.cache
+C:\C#\is i as\is i as\obj\Debug\is i as.exe
+C:\C#\is i as\is i as\obj\Debug\is i as.pdb
