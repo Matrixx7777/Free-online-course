@@ -1,0 +1,7 @@
+C:\C#\Wyjątki\Wyjątki - Try Catch\Wyjątki - Try Catch\Wyjątki - Try Catch\bin\Debug\Wyjątki - Try Catch.exe.config
+C:\C#\Wyjątki\Wyjątki - Try Catch\Wyjątki - Try Catch\Wyjątki - Try Catch\bin\Debug\Wyjątki - Try Catch.exe
+C:\C#\Wyjątki\Wyjątki - Try Catch\Wyjątki - Try Catch\Wyjątki - Try Catch\bin\Debug\Wyjątki - Try Catch.pdb
+C:\C#\Wyjątki\Wyjątki - Try Catch\Wyjątki - Try Catch\Wyjątki - Try Catch\obj\Debug\Wyjątki - Try Catch.csprojAssemblyReference.cache
+C:\C#\Wyjątki\Wyjątki - Try Catch\Wyjątki - Try Catch\Wyjątki - Try Catch\obj\Debug\Wyjątki - Try Catch.csproj.CoreCompileInputs.cache
+C:\C#\Wyjątki\Wyjątki - Try Catch\Wyjątki - Try Catch\Wyjątki - Try Catch\obj\Debug\Wyjątki - Try Catch.exe
+C:\C#\Wyjątki\Wyjątki - Try Catch\Wyjątki - Try Catch\Wyjątki - Try Catch\obj\Debug\Wyjątki - Try Catch.pdb

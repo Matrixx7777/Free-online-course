@@ -1,0 +1,7 @@
+C:\C#\Tablice\Tablica2\Tabela2\Tabela2\bin\Debug\Tabela2.exe.config
+C:\C#\Tablice\Tablica2\Tabela2\Tabela2\bin\Debug\Tabela2.exe
+C:\C#\Tablice\Tablica2\Tabela2\Tabela2\bin\Debug\Tabela2.pdb
+C:\C#\Tablice\Tablica2\Tabela2\Tabela2\obj\Debug\Tabela2.csprojAssemblyReference.cache
+C:\C#\Tablice\Tablica2\Tabela2\Tabela2\obj\Debug\Tabela2.csproj.CoreCompileInputs.cache
+C:\C#\Tablice\Tablica2\Tabela2\Tabela2\obj\Debug\Tabela2.exe
+C:\C#\Tablice\Tablica2\Tabela2\Tabela2\obj\Debug\Tabela2.pdb

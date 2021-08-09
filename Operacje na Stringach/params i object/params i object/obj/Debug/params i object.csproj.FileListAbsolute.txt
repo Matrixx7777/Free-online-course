@@ -1,0 +1,7 @@
+C:\C#\Operacje na Stringach\params i object\params i object\bin\Debug\params i object.exe.config
+C:\C#\Operacje na Stringach\params i object\params i object\bin\Debug\params i object.exe
+C:\C#\Operacje na Stringach\params i object\params i object\bin\Debug\params i object.pdb
+C:\C#\Operacje na Stringach\params i object\params i object\obj\Debug\params i object.csprojAssemblyReference.cache
+C:\C#\Operacje na Stringach\params i object\params i object\obj\Debug\params i object.csproj.CoreCompileInputs.cache
+C:\C#\Operacje na Stringach\params i object\params i object\obj\Debug\params i object.exe
+C:\C#\Operacje na Stringach\params i object\params i object\obj\Debug\params i object.pdb

@@ -1,0 +1,7 @@
+C:\C#\Parzyste i nieparzyste\Parzyste i nieparzyste\Parzyste i nieparzyste\bin\Debug\Parzyste i nieparzyste.exe.config
+C:\C#\Parzyste i nieparzyste\Parzyste i nieparzyste\Parzyste i nieparzyste\bin\Debug\Parzyste i nieparzyste.exe
+C:\C#\Parzyste i nieparzyste\Parzyste i nieparzyste\Parzyste i nieparzyste\bin\Debug\Parzyste i nieparzyste.pdb
+C:\C#\Parzyste i nieparzyste\Parzyste i nieparzyste\Parzyste i nieparzyste\obj\Debug\Parzyste i nieparzyste.csprojAssemblyReference.cache
+C:\C#\Parzyste i nieparzyste\Parzyste i nieparzyste\Parzyste i nieparzyste\obj\Debug\Parzyste i nieparzyste.csproj.CoreCompileInputs.cache
+C:\C#\Parzyste i nieparzyste\Parzyste i nieparzyste\Parzyste i nieparzyste\obj\Debug\Parzyste i nieparzyste.exe
+C:\C#\Parzyste i nieparzyste\Parzyste i nieparzyste\Parzyste i nieparzyste\obj\Debug\Parzyste i nieparzyste.pdb

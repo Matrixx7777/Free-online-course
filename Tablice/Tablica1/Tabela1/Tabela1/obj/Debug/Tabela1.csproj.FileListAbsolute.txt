@@ -1,0 +1,7 @@
+C:\C#\Tablice\Tablica1\Tabela1\Tabela1\obj\Debug\Tabela1.csprojAssemblyReference.cache
+C:\C#\Tablice\Tablica1\Tabela1\Tabela1\obj\Debug\Tabela1.csproj.CoreCompileInputs.cache
+C:\C#\Tablice\Tablica1\Tabela1\Tabela1\bin\Debug\Tabela1.exe.config
+C:\C#\Tablice\Tablica1\Tabela1\Tabela1\bin\Debug\Tabela1.exe
+C:\C#\Tablice\Tablica1\Tabela1\Tabela1\bin\Debug\Tabela1.pdb
+C:\C#\Tablice\Tablica1\Tabela1\Tabela1\obj\Debug\Tabela1.exe
+C:\C#\Tablice\Tablica1\Tabela1\Tabela1\obj\Debug\Tabela1.pdb

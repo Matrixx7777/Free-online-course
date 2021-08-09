@@ -1,0 +1,14 @@
+C:\C#\Zgadywanie\Zgadywanie\obj\Debug\Zgadywanie.csprojAssemblyReference.cache
+C:\C#\Zgadywanie\Zgadywanie\obj\Debug\Zgadywanie.csproj.CoreCompileInputs.cache
+C:\C#\Zgadywanie\Zgadywanie\bin\Debug\Zgadywanie.exe.config
+C:\C#\Zgadywanie\Zgadywanie\bin\Debug\Zgadywanie.exe
+C:\C#\Zgadywanie\Zgadywanie\bin\Debug\Zgadywanie.pdb
+C:\C#\Zgadywanie\Zgadywanie\obj\Debug\Zgadywanie.exe
+C:\C#\Zgadywanie\Zgadywanie\obj\Debug\Zgadywanie.pdb
+C:\C#\Zgadywanie liczb\Zgadywanie\obj\Debug\Zgadywanie.csprojAssemblyReference.cache
+C:\C#\Zgadywanie liczb\Zgadywanie\obj\Debug\Zgadywanie.csproj.CoreCompileInputs.cache
+C:\C#\Zgadywanie liczb\Zgadywanie\obj\Debug\Zgadywanie.exe
+C:\C#\Zgadywanie liczb\Zgadywanie\obj\Debug\Zgadywanie.pdb
+C:\C#\Zgadywanie liczb\Zgadywanie\bin\Debug\Zgadywanie.exe.config
+C:\C#\Zgadywanie liczb\Zgadywanie\bin\Debug\Zgadywanie.exe
+C:\C#\Zgadywanie liczb\Zgadywanie\bin\Debug\Zgadywanie.pdb
