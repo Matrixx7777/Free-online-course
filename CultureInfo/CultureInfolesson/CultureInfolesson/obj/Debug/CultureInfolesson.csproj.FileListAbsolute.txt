@@ -1,0 +1,7 @@
+C:\C#\CultureInfo\CultureInfolesson\CultureInfolesson\bin\Debug\CultureInfolesson.exe.config
+C:\C#\CultureInfo\CultureInfolesson\CultureInfolesson\bin\Debug\CultureInfolesson.exe
+C:\C#\CultureInfo\CultureInfolesson\CultureInfolesson\bin\Debug\CultureInfolesson.pdb
+C:\C#\CultureInfo\CultureInfolesson\CultureInfolesson\obj\Debug\CultureInfolesson.csprojAssemblyReference.cache
+C:\C#\CultureInfo\CultureInfolesson\CultureInfolesson\obj\Debug\CultureInfolesson.csproj.CoreCompileInputs.cache
+C:\C#\CultureInfo\CultureInfolesson\CultureInfolesson\obj\Debug\CultureInfolesson.exe
+C:\C#\CultureInfo\CultureInfolesson\CultureInfolesson\obj\Debug\CultureInfolesson.pdb

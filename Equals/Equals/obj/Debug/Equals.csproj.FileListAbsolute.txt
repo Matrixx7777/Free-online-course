@@ -1,0 +1,7 @@
+C:\C#\Equals\Equals\bin\Debug\Equals.exe.config
+C:\C#\Equals\Equals\bin\Debug\Equals.exe
+C:\C#\Equals\Equals\bin\Debug\Equals.pdb
+C:\C#\Equals\Equals\obj\Debug\Equals.csprojAssemblyReference.cache
+C:\C#\Equals\Equals\obj\Debug\Equals.csproj.CoreCompileInputs.cache
+C:\C#\Equals\Equals\obj\Debug\Equals.exe
+C:\C#\Equals\Equals\obj\Debug\Equals.pdb

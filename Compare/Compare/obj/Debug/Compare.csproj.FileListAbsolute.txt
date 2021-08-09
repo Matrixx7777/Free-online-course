@@ -1,0 +1,7 @@
+C:\C#\Compare\Compare\bin\Debug\Compare.exe.config
+C:\C#\Compare\Compare\bin\Debug\Compare.exe
+C:\C#\Compare\Compare\bin\Debug\Compare.pdb
+C:\C#\Compare\Compare\obj\Debug\Compare.csprojAssemblyReference.cache
+C:\C#\Compare\Compare\obj\Debug\Compare.csproj.CoreCompileInputs.cache
+C:\C#\Compare\Compare\obj\Debug\Compare.exe
+C:\C#\Compare\Compare\obj\Debug\Compare.pdb

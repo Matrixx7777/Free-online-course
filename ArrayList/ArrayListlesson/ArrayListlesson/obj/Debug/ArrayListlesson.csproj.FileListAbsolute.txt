@@ -1,0 +1,7 @@
+C:\C#\ArrayList\ArrayListlesson\ArrayListlesson\bin\Debug\ArrayListlesson.exe.config
+C:\C#\ArrayList\ArrayListlesson\ArrayListlesson\bin\Debug\ArrayListlesson.exe
+C:\C#\ArrayList\ArrayListlesson\ArrayListlesson\bin\Debug\ArrayListlesson.pdb
+C:\C#\ArrayList\ArrayListlesson\ArrayListlesson\obj\Debug\ArrayListlesson.csprojAssemblyReference.cache
+C:\C#\ArrayList\ArrayListlesson\ArrayListlesson\obj\Debug\ArrayListlesson.csproj.CoreCompileInputs.cache
+C:\C#\ArrayList\ArrayListlesson\ArrayListlesson\obj\Debug\ArrayListlesson.exe
+C:\C#\ArrayList\ArrayListlesson\ArrayListlesson\obj\Debug\ArrayListlesson.pdb
