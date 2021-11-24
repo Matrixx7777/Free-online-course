@@ -1,0 +1,7 @@
+C:\C#\Dziedziczenie\Dziedziczenie cz.3\Dziedziczenie cz.3\Dziedziczenie cz.3\bin\Debug\Dziedziczenie cz.3.exe.config
+C:\C#\Dziedziczenie\Dziedziczenie cz.3\Dziedziczenie cz.3\Dziedziczenie cz.3\bin\Debug\Dziedziczenie cz.3.exe
+C:\C#\Dziedziczenie\Dziedziczenie cz.3\Dziedziczenie cz.3\Dziedziczenie cz.3\bin\Debug\Dziedziczenie cz.3.pdb
+C:\C#\Dziedziczenie\Dziedziczenie cz.3\Dziedziczenie cz.3\Dziedziczenie cz.3\obj\Debug\Dziedziczenie cz.3.csprojAssemblyReference.cache
+C:\C#\Dziedziczenie\Dziedziczenie cz.3\Dziedziczenie cz.3\Dziedziczenie cz.3\obj\Debug\Dziedziczenie cz.3.csproj.CoreCompileInputs.cache
+C:\C#\Dziedziczenie\Dziedziczenie cz.3\Dziedziczenie cz.3\Dziedziczenie cz.3\obj\Debug\Dziedziczenie cz.3.exe
+C:\C#\Dziedziczenie\Dziedziczenie cz.3\Dziedziczenie cz.3\Dziedziczenie cz.3\obj\Debug\Dziedziczenie cz.3.pdb
